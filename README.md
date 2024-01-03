@@ -32,6 +32,9 @@ Continuous Cloud Testing expands Selenium's capabilities and allows better contr
 
 See [Capabilities In Selenium Tests](https://docs.digital.ai/bundle/TE/page/capabilities_in_selenium_tests.html) to learn how to customize the desired capabilities for your tests.
 
+### Configuring Test Capabilities
+You can add custom capabilities under capabilities in *nightwatch.conf.js*
+
 ## Running Tests
 
 To run the tests in this project, run the following on the command line:
